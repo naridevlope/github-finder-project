@@ -1,30 +1,71 @@
-# React + TypeScript + Vite
+# 🚀 github-finder-project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto feito para praticar a utilização de typescript com react.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Estrelas](https://img.shields.io/github/stars/naridevlope/github-finder-project.svg)
+![Forks](https://img.shields.io/github/forks/naridevlope/github-finder-project.svg)
 
-## Expanding the ESLint configuration
+## 📋 Tabela de Conteúdos
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- [📖 Visão Geral](#-visão-geral)
+- [💻 Tecnologias](#-tecnologias)
+- [🚀 Instalação](#-instalação)
+- [📝 Como Usar](#-como-usar)
+- [✨ Funcionalidades](#-funcionalidades)
+- [📄 Licença](#-licença)
+- [👨‍💻 Autor](#-autor)
 
-- Configure the top-level `parserOptions` property like this:
+## 📖 Visão Geral
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+Este repositório contém o código-fonte para github-finder-project. 
+
+
+## 💻 Tecnologias
+
+- **TypeScript**
+- **CSS**
+- **HTML**
+- **JavaScript**
+
+## 🚀 Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/naridevlope/github-finder-project.git
+
+# Entre no diretório do repositório
+cd github-finder-project
+
+# Instale as dependências
+npm install
+# ou
+yarn install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 📝 Como Usar
+
+```bash
+# Execute a aplicação em modo de desenvolvimento
+npm start
+# ou
+yarn start
+```
+
+## ✨ Funcionalidades
+
+- ✅ Funcionalidade 1
+- ✅ Funcionalidade 2
+- ✅ Funcionalidade 3
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença não especificada.
+
+## 👨‍💻 Autor
+
+- [naridevlope](https://github.com/naridevlope)
+
+---
+
+Gerado com ❤️ por [ReadmeMaker](https://readmemaker.com) | Desenvolvido por [LucaDevel0per](https://github.com/LucaDevel0per)
