@@ -18,7 +18,7 @@ Projeto feito para praticar a utilização de typescript com react.
 
 ## 📖 Visão Geral
 
-Este repositório contém o código-fonte para github-finder-project. 
+Buscador de perfis do github. Ele é integrado à API do github para realizar a busca
 
 
 ## 💻 Tecnologias
